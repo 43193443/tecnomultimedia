@@ -1,5 +1,5 @@
 //pantalla inicial
-void Menu ();
+void Menu (){
   //imagen de fondo
   // background(0, 150, 50);
   // texto inicial
