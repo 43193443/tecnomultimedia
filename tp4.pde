@@ -1,5 +1,6 @@
-// 
+// https://youtu.be/DpTj8zTGcI4
 // Ramiro Sebastian Juarez Giacomo 91434/5
+// (grupo Dante Nuñez, Camila Martin)
 Boton b1, b2, b3, b4;
 
 Carta Dante, Ramiro, Camila;
@@ -17,6 +18,7 @@ void setup() {
   b4 = new Boton( "Salir", 20, 20, 50, 30);
 
   carta = loadImage ("carta.png");
+  
   Dante = new Carta
     (60, 200, 120, 80,
     120, 80, 300, 310
